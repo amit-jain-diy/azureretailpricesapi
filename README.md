@@ -1,5 +1,7 @@
 # azureretailpricesapi
 Get Azure Retail pricing via API using Python
+
+
 Hi All,
 
 This python script will help to download Azure Retail price for services offered by Azure
