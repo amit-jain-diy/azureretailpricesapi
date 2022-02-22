@@ -27,46 +27,45 @@ How to Run
 
 
 Regions
-|	armRegionName	|	location	|
-|	westus	|	US West	|
-|	ukwest	|	UK West	|
-|	westus2	|	US West 2	|
-|	australiacentral2	|	AU Central 2	|
-|	southeastasia	|	AP Southeast	|
-|	eastus	|	US East	|
-|	uksouth2	|	UK South 2	|
-|	southcentralus	|	US South Central	|
-|	japanwest	|	JA West	|
-|	canadaeast	|	CA East	|
-|	chinanorth3	|	CN North 3	|
-|	brazilsouth	|	BR South	|
-|	australiasoutheast	|	AU Southeast	|
-|	francecentral	|	FR Central	|
-|	canadacentral	|	CA Central	|
-|	australiacentral	|	AU Central	|
-|	eastasia	|	AP East	|
-|	uknorth	|	UK North	|
-|	francesouth	|	FR South	|
-|	westeurope	|	EU West	|
-|	usgovvirginia	|	US Gov Virginia	|
-|	japaneast	|	JA East	|
-|	westindia	|	IN West	|
-|	usgovarizona	|	US Gov AZ	|
-|	chinaeast3	|	CN East 3	|
-|	southindia	|	IN South	|
-|	centralus	|	US Central	|
-|	koreasouth	|	KR South	|
-|	usgovtexas	|	US Gov TX	|
-|	eastus2	|	US East 2	|
-|	centralindia	|	IN Central	|
-|	uksouth	|	UK South	|
-|	northeurope	|	EU North	|
-|	australiaeast	|	AU East	|
-|	koreacentral	|	KR Central	|
-|	westcentralus	|	US West Central	|
-|	northcentralus	|	US North Central	|
-|	Global	|	Global	|
-|	swedencentral	|	SE Central	|
-|	swedensouth	|	SE South	|
-|	jioindiawest	|	IN West Jio	|
-![image](https://user-images.githubusercontent.com/99235093/155062663-17402e15-7f67-49ee-8cd5-f6d8fc294738.png)
+| armRegionName | location |
+| westus | US West |
+| ukwest | UK West |
+| westus2 | US West 2 |
+| australiacentral2 | AU Central 2 |
+| southeastasia | AP Southeast |
+| eastus | US East |
+| uksouth2 | UK South 2 |
+| southcentralus | US South Central |
+| japanwest | JA West |
+| canadaeast | CA East |
+| chinanorth3 | CN North 3 |
+| brazilsouth | BR South |
+| australiasoutheast | AU Southeast |
+| francecentral | FR Central |
+| canadacentral | CA Central |
+| australiacentral | AU Central |
+| eastasia | AP East |
+| uknorth | UK North |
+| francesouth | FR South |
+| westeurope | EU West |
+| usgovvirginia | US Gov Virginia |
+| japaneast | JA East |
+| westindia | IN West |
+| usgovarizona | US Gov AZ |
+| chinaeast3 | CN East 3 |
+| southindia | IN South |
+| centralus | US Central |
+| koreasouth | KR South |
+| usgovtexas | US Gov TX |
+| eastus2 | US East 2 |
+| centralindia | IN Central |
+| uksouth | UK South |
+| northeurope | EU North |
+| australiaeast | AU East |
+| koreacentral | KR Central |
+| westcentralus | US West Central |
+| northcentralus | US North Central |
+| Global | Global |
+| swedencentral | SE Central |
+| swedensouth | SE South |
+| jioindiawest | IN West Jio |
