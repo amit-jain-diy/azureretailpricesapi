@@ -28,6 +28,7 @@ How to Run
 
 Regions
 | armRegionName | location |
+| - | - |
 | westus | US West |
 | ukwest | UK West |
 | westus2 | US West 2 |
