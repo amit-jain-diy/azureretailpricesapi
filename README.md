@@ -14,7 +14,7 @@ https://prices.azure.com/api/retail/prices
 
 If you execute this API, you will notice that one can download 100 rows at a time
 
-Oython Scripts
+Python Scripts
 1. Azure_get_price_by_Region.py : Get prices for all services for a specific Region
 2. Azure_get_price_Disks.py : Get prices for managed disks for all regions
 3. Azure_get_price_VM.py : Get VM prices for a specific region
