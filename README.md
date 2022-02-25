@@ -13,7 +13,13 @@ API Endpoint
 https://prices.azure.com/api/retail/prices
 
 If you execute this API, you will notice that one can download 100 rows at a time
-This Python script can download retail prices for a specific region
+
+Oython Scripts
+1. Azure_get_price_by_Region.py : Get prices for all services for a specific Region
+2. Azure_get_price_Disks.py : Get prices for managed disks for all regions
+3. Azure_get_price_VM.py : Get VM prices for a specific region
+
+
 
 Installation 
 1. Create a folder on C Drive "c:/temp/azureretailpricesapi"
@@ -25,7 +31,7 @@ Installation
 
 How to Run 
 - open the python file and change the region from the table below 
-- Execute by calling c:/temp/azureretailpricesapi/Azure_get_price_by_Region.py
+- Execute by calling <filename>.py
 
 
 Regions
