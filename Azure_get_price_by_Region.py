@@ -14,9 +14,6 @@ filename = zRegion
 # URL
 url = "https://prices.azure.com/api/retail/prices?$filter=armRegionName eq " + "'"+ zRegion +"'"
 
-# url = "https://prices.azure.com/api/retail/prices?$filter=contains(productName,'SSD Managed Disks') and armRegionName eq " + zRegion 
-#url = "https://prices.azure.com/api/retail/prices?$filter=armSkuName eq 'Standard_A2'"
-
 
 print ("Processing url : " + url)
 # Call the Azure Retail Prices API
